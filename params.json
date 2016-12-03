@@ -1,0 +1,6 @@
+{
+  "name": "Cr-gfcodebot-twitter",
+  "tagline": "lists all gift codes that were posted for @crunchyroll_de on twitter with a range of seven days",
+  "body": "This application lists gift codes for @crunchyroll_de on Twitter.\r\n\r\n## IMPORTANT\r\nYou have to change login.rb so that the login data matches your personal API access credentials.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
